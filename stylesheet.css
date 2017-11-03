@@ -1,0 +1,112 @@
+p {
+  font-size: 30px;
+  padding-top: 10px;
+  left: 30px;
+  position: absolute;
+  font-weight: bolder;
+}
+
+#welcome_back {
+  position: absolute;
+  color: white;
+  border-top: 1px #a6a6a6 solid;
+  font-size: 15px;
+  width: 200px;
+  text-align: center;
+  top: 10px;
+  left: 35%;
+  color: #a6a6a6;
+}
+
+#hello_friend {
+  position: absolute;
+  top: 15px;
+  left: 110px;
+  font-weight: bolder;
+}
+
+#sign_in_text {
+  font-size: 12px;
+  position: absolute;
+  bottom: 15px;
+  left: 98px;
+  color: #cccccc;
+}
+
+u:hover {
+  color: black;
+}
+
+#field input {
+  border-bottom: 1px grey solid;
+  border-left: none;
+  border-right: none;
+  border-top: none;
+  width: 330px;
+  height: 30px;
+  display: block;
+  margin-left: 33px;
+  margin-top: 20px;
+}
+
+#login_button {
+  background-color: black;
+  color: white;
+  border: none;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  top: 275px;
+  width: 250px;
+  height: 50px;
+}
+
+#login_button:hover {
+  background-color: #808080;
+}
+
+#log_out {
+  font-size: 12px;
+  position: absolute;
+  bottom: 15px;
+  left: 170px;
+  color: #cccccc;
+}
+
+#field {
+  width: 400px;
+  height: 300px;
+  background-color: white;
+  margin-left: 50%;
+  padding-top: 100px;
+  transform: translateX(-50%);
+
+}
+
+#outside_field {
+  width: 700px;
+  height: 500px;
+  padding-top: 80px;
+  background-color: black;
+  margin-left: 50%;
+  transform: translateX(-50%);
+}
+
+#welcome_inside {
+  width: 400px;
+  height: 200px;
+  background-color: white;
+  margin-left: 50%;
+  transform: translateX(-50%);
+}
+
+#welcome_outside{
+  width: 700px;
+  height: 340px;
+  padding-top: 100px;
+  background-color: black;
+  margin-left: 50%;
+  transform: translateX(-51.1%);
+  position: absolute;
+  top: 65px;
+}
