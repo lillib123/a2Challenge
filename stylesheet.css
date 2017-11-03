@@ -33,7 +33,11 @@ p {
   color: #cccccc;
 }
 
-u:hover {
+a {
+  color: #cccccc;
+}
+
+a:hover {
   color: black;
 }
 
@@ -71,6 +75,10 @@ u:hover {
   bottom: 15px;
   left: 170px;
   color: #cccccc;
+}
+
+#log_out:hover: {
+  color: black;
 }
 
 #field {
